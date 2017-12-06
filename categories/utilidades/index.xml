@@ -32,11 +32,11 @@ Running Nightwatch.js without Selenium The first small speed improvement can be 
     </item>
     
     <item>
-      <title>Windows turbo reinicio en bucle panatalla azul</title>
-      <link>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-panatalla-azul/</link>
+      <title>Windows turbo reinicio en bucle pantalla azul</title>
+      <link>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-pantalla-azul/</link>
       <pubDate>Sat, 11 Nov 2017 04:51:07 +0000</pubDate>
       
-      <guid>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-panatalla-azul/</guid>
+      <guid>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-pantalla-azul/</guid>
       <description>Despues de haber instalado windows 10 puede haber un reinicio en bucle, principalmente al haber reparado un backup con acronis.
 Aveces cuando el hardware de nuestro equipo no es compatible con la pc donde se origino el backup, se genera un reinicio infinito o en bucle y nos da pantalla azul, para ello booteamos el acronis y en la opcion de restore damos click, para empezar debemos tener los drivers en formato .</description>
     </item>
@@ -56,8 +56,8 @@ Aveces cuando el hardware de nuestro equipo no es compatible con la pc donde se 
       <pubDate>Thu, 28 Sep 2017 19:11:18 +0000</pubDate>
       
       <guid>https://codigobash.github.io/windows-10-turbo-v11-gen3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Windows 10 turbo v11&lt;/strong&gt;  es un gran proyecto en el area de los windows modificados que por lo general vienen mas ligeros y en este caso esta version de &lt;strong&gt;windows&lt;/strong&gt; es una preciosidad ya que cuenta con tres tipos de &lt;strong&gt;optimizaciones&lt;/strong&gt; en uno solo y trae aproximadamente mas de 200 &lt;strong&gt;optimizaciones&lt;/strong&gt;, viene en tres idiomas preinstalados, ingles, español y aleman.
-&lt;/p&gt;</description>
+      <description>Windows 10 turbo v11 es un gran proyecto en el area de los windows modificados que por lo general vienen mas ligeros y en este caso esta version de windows es una preciosidad ya que cuenta con tres tipos de optimizaciones en uno solo y trae aproximadamente mas de 200 optimizaciones, viene en tres idiomas preinstalados, ingles, español y aleman.
+INSTALACION DEL WINDOWS TURBO V11 La instalacion de este windows 10 turbo v11 si se le puede llamar instalacion, es muy facil ya que se trata del backup de un sistema minimo el cual se restaura con el acronis y al iniciarlo se hace la post-instalacion que incluye los drivers y la optimizacion adecuada para cada computadora.</description>
     </item>
     
   </channel>
