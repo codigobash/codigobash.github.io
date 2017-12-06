@@ -21,5 +21,15 @@
 Una vez activado, eché un vistazo a ver qué opciones nuevas había. Activé una llamada Simular pantallas secundarias (Simulate secondary displays) y el teléfono se quedó bloqueado. Reinicié y el teléfono había quedado en un bucle infinito en el proceso de inicio. Lo primero que pensé fue en volver a flashear la ROM.</description>
     </item>
     
+    <item>
+      <title>Windows turbo reinicio en bucle panatalla azul</title>
+      <link>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-panatalla-azul/</link>
+      <pubDate>Sat, 11 Nov 2017 04:51:07 +0000</pubDate>
+      
+      <guid>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-panatalla-azul/</guid>
+      <description>Despues de haber instalado windows 10 puede haber un reinicio en bucle, principalmente al haber reparado un backup con acronis.
+Aveces cuando el hardware de nuestro equipo no es compatible con la pc donde se origino el backup, se genera un reinicio infinito o en bucle y nos da pantalla azul, para ello booteamos el acronis y en la opcion de restore damos click, para empezar debemos tener los drivers en formato .</description>
+    </item>
+    
   </channel>
 </rss>

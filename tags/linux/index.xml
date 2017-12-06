@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Abdias Rivera</title>
+    <link>https://codigobash.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Abdias Rivera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Sep 2017 19:11:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://codigobash.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows 10 turbo v11 gen3</title>
+      <link>https://codigobash.github.io/windows-10-turbo-v11-gen3/</link>
+      <pubDate>Thu, 28 Sep 2017 19:11:18 +0000</pubDate>
+      
+      <guid>https://codigobash.github.io/windows-10-turbo-v11-gen3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Windows 10 turbo v11&lt;/strong&gt;  es un gran proyecto en el area de los windows modificados que por lo general vienen mas ligeros y en este caso esta version de &lt;strong&gt;windows&lt;/strong&gt; es una preciosidad ya que cuenta con tres tipos de &lt;strong&gt;optimizaciones&lt;/strong&gt; en uno solo y trae aproximadamente mas de 200 &lt;strong&gt;optimizaciones&lt;/strong&gt;, viene en tres idiomas preinstalados, ingles, español y aleman.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

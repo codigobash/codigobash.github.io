@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>https://codigobash.github.io/windows-turbo-reinicio-en-bucle-panatalla-azul/</loc>
+    <lastmod>2017-11-11T04:51:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codigobash.github.io/windows-10-turbo-ex-v10-tecnicosinside/</loc>
+    <lastmod>2017-10-31T05:06:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codigobash.github.io/windows-10-turbo-v11-gen3/</loc>
+    <lastmod>2017-09-28T19:11:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codigobash.github.io/blog/</loc>
     <lastmod>2017-11-27T08:42:22+02:00</lastmod>
   </url>
@@ -41,6 +56,12 @@
   
   <url>
     <loc>https://codigobash.github.io/lego/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://codigobash.github.io/tags/linux/</loc>
+    <lastmod>2017-09-28T19:11:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,6 +96,12 @@
   <url>
     <loc>https://codigobash.github.io/tags/web/</loc>
     <lastmod>2017-11-27T08:42:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://codigobash.github.io/tags/windows/</loc>
+    <lastmod>2017-11-11T04:51:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
