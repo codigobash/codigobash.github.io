@@ -1,0 +1,15 @@
+{
+  "short_name": "Abdias R.",
+  "name": "Abdias River - Blog",
+  "icons": [
+    {
+      "src":"images/icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#00acc1",
+  "display": "standalone"
+}
