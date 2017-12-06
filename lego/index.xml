@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lego on Abdias Rivera</title>
+    <link>https://codigobash.github.io/lego/</link>
+    <description>Recent content in Lego on Abdias Rivera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://codigobash.github.io/lego/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
